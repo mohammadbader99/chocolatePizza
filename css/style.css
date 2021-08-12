@@ -53,7 +53,7 @@ nav li {
     width: 100%;
     height: 15px;
     display: inline-block;
-    background-image: url(/img/hr-img.png);
+    background-image: url(https://github.com/LTUC/amman-irbid-201d35/blob/main/class-10/lab-a/lab-assets/hr-img.png?raw=true);
     margin-top: 30px;
 }
 
@@ -95,7 +95,7 @@ h1 {
 }
 
 #myForm {
-    background-image: url(/img/list-bg.png);
+    background-image: url(https://github.com/LTUC/amman-irbid-201d35/blob/main/class-10/lab-a/lab-assets/list-bg.png?raw=true);
     width: 899px;
     height: 305px;
 }
@@ -131,7 +131,7 @@ input[type='checkbox']:checked + label {
     width: 100%;
     height: 15px;
     display: inline-block;
-    background-image: url(../img/hr-img.png);
+    background-image: url(https://github.com/LTUC/amman-irbid-201d35/blob/main/class-10/lab-a/lab-assets/hr-img.png?raw=true);
     margin-top: 30px;
 }
 
