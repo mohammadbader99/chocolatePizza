@@ -1,0 +1,217 @@
+body {
+    width: 901px;
+    margin: auto;
+}
+
+header {
+    display: inline-block;
+    width: 100%;
+    height: 150px;
+    padding-top: 40px;
+}
+
+#logo img {
+    float: left;
+}
+
+#logo div {
+    display: inline-block;
+    padding-left: 8px;
+}
+
+#logo h3 {
+    font-family: 'Pacifico', cursive;
+    font-style: italic;
+    font-size: 32px;
+    padding-bottom: 2px;
+}
+
+#logo p {
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: bold;
+    font-size: 12px;
+    padding-left: 3px;
+}
+
+#logo {
+    float: left;
+}
+nav {
+    float: right;
+    padding-top: 10px;
+}
+
+nav ul {
+    display: inline-block;
+    padding-right: 10px;
+}
+nav li {
+    display: inline;
+}
+
+#headerSplitter {
+    width: 100%;
+    height: 15px;
+    display: inline-block;
+    background-image: url(/img/hr-img.png);
+    margin-top: 30px;
+}
+
+h1 {
+    font-family: 'Barlow Semi Condensed', sans-serif;
+    font-size: 40px;
+    font-weight: bolder;
+}
+
+#date {
+    float: left;
+}
+
+#print {
+    float: right;
+}
+
+#print p {
+    float: right;
+}
+#subtitle {
+    padding-top: 6px;
+    font-family: 'Rajdhani', sans-serif;
+    font-weight: bold;
+    color: rgba(0, 0, 0, 0.5);
+    font-size: 14px;
+}
+
+#bodyImage {
+    padding: 45px 0px 25px 0px;
+}
+
+#bodyText p{
+    text-indent: 30px;
+    font-size: 19px;
+    color: rgb(100, 100, 100);
+    padding-bottom: 30px;
+    line-height: 26px;
+}
+
+#myForm {
+    background-image: url(/img/list-bg.png);
+    width: 899px;
+    height: 305px;
+}
+
+#mainField {
+    width: 700px;
+    font-family: 'Patrick Hand', cursive;
+    font-size: 24px;
+    padding-left: 60px;
+}
+
+#left {
+    padding-top: 38px;
+    float: left;
+    width: 350px;
+}
+
+#right {
+    padding-top: 38px;
+    float: right;
+    width: 350px;
+}
+
+label, input {
+    margin-bottom: 10px;
+}
+
+input[type='checkbox']:checked + label {
+    text-decoration: line-through;
+}
+
+#footerSplitter {
+    width: 100%;
+    height: 15px;
+    display: inline-block;
+    background-image: url(/img/hr-img.png);
+    margin-top: 30px;
+}
+
+#share {
+    padding-top: 25px;
+}
+
+#post img {
+    float: left;
+}
+
+#post div {
+    display: inline-block;
+    padding-left: 15px;
+}
+
+#post h6 {
+    font-size: 20px;
+    font-weight: bolder;
+    padding: 7px 0px 10px 0px;
+}
+
+#post p {
+    width: 500px;
+    line-height: 20px;
+}
+
+#post {
+    float: left;
+}
+button {
+    float: right;
+    border: none;
+    padding: 17px 44px;
+    background: brown;
+    color: white;
+    font-size: 18px;
+    margin-top: 5px;
+}
+
+button:hover{
+    border: 2px solid white;
+    background-color: black;
+    color: white;
+    transition: 350ms ease-in;
+  }
+footer{
+    margin-top: 100px;
+    width: 100%;
+    height: 200px;
+    text-align: center;
+}
+
+footer div {
+    text-align: center;
+    margin-top: 50px;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+footer img {
+    padding-bottom: 20px;
+}
+  .flourish:before, 
+  .flourish:after {
+    content: "";
+    display: inline-block;
+    vertical-align: middle;
+    position: relative;
+    width: 423px;
+    border-top-style: solid;
+    border-top-width: 1px;
+    padding-bottom: 65px;
+    color:rgba(0, 0, 0, 0.2);
+  }
+  .flourish:before {
+    right: 0.5em;
+    margin-left: -50%;
+  }
+  .flourish:after {
+    left: 0.5em;
+    margin-right: -50%;
+  }
+  
