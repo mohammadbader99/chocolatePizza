@@ -131,7 +131,7 @@ input[type='checkbox']:checked + label {
     width: 100%;
     height: 15px;
     display: inline-block;
-    background-image: url(/img/hr-img.png);
+    background-image: url(../img/hr-img.png);
     margin-top: 30px;
 }
 
